@@ -47,22 +47,24 @@ if __name__ == "__main__":
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-336791?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_DP--300-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Programming & automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### AI
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-5B21B6?style=for-the-badge)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Infrastructure & self-hosting
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
@@ -72,7 +74,7 @@ if __name__ == "__main__":
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Analysis, tooling & platforms
-![BPMN](https://img.shields.io/badge/BABOK_%2F_BPMN-005AA7?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-005AA7?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,7 +102,7 @@ if __name__ == "__main__":
 |---|---|---|
 | [**personal-website**](https://github.com/carlosleandrobh/personal-website) | My personal site: experience, projects, and notes from the homelab and self-hosted apps. Live at [carlos.nz](https://carlos.nz). | Python |
 | [**BentoPDF**](https://bentopdf.carlos.nz) | Self-hosted, privacy-first PDF toolkit (merge, split, compress, convert) running in my homelab. Upstream: [alam00000/bentopdf](https://github.com/alam00000/bentopdf). | Docker, Traefik, Cloudflare |
-| **Copilot Studio agent** | A Microsoft 365 agent built with Copilot Studio. *In progress.* | Copilot Studio, M365 |
+| **Copilot Studio agent** | A Microsoft 365 agent built with Copilot Studio. | Copilot Studio, M365 |
 
 ---
 

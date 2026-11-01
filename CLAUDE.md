@@ -13,7 +13,8 @@ This is Carlos's GitHub profile repository (`carlosleandrobh/carlosleandrobh`). 
 - Also fine: T-SQL and DAX (query and modelling languages), and tools already in the README.
 - Experience is stated as **15+ years**.
 - Course name: **Master of Business Informatics (Business Analytics)**, Yoobee Colleges. The short form "Master of Business Analytics" is acceptable in compact places.
-- In progress: CBAP, DP-300, Copilot Studio agent. Planned: Professional Scrum Master. Do not present these as completed.
+- In progress: CBAP, DP-300. Planned: Professional Scrum Master. Do not present these as completed.
+- Completed: Copilot Studio agent (built; listed in Projects without an "In progress" label).
 - Do not invent hardware, versions or services for the homelab. Only state what Carlos has confirmed or what carlos.nz lists.
 - Do not infer pronouns; none are stated in the README.
 
