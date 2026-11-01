@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋
 
-### Business Analyst | Data & AI | Homelab Enthusiast
+### Business Analyst | Data & AI | Homelab and Open-Source Enthusiast
 
 📍 Auckland, New Zealand · 🌐 [carlos.nz](https://carlos.nz)
 
@@ -9,9 +9,9 @@
 ## 🧑‍💻 About me
 
 - 📊 I turn messy processes and unreliable spreadsheets into data people can trust, with **15+ years** of hands-on technical experience.
-- 🗄️ I work mostly with **SQL Server, T-SQL and Power BI**, and I automate the repetitive parts with **Python** and **n8n**.
+- 🗄️ I work mostly with **SQL Server, SQL Server Reporting Services (SSRS) and Power BI**, and I automate the repetitive parts with **Python** and **n8n**.
 - 🤖 I'm exploring **AI and automation**: Copilot Studio agents, local LLMs with Ollama, and AI-assisted development with Claude Code.
-- 🖥️ I run a **five-node Proxmox homelab** to learn infrastructure by breaking, fixing and documenting things.
+- 🖥️ I run a **five-node Proxmox homelab** to learn DevOps, Linux and virtualisation by breaking, fixing and documenting things. I also use VMware and Oracle VirtualBox.
 - 🎓 Studying a **Master of Business Informatics (Business Analytics)** at Yoobee Colleges, Auckland.
 - 📜 Working towards **CBAP** (IIBA) and **DP-300 Azure Database Administrator** (Microsoft).
 
@@ -24,7 +24,7 @@ class Profile:
     name: str = "Carlos"
     role: str = "Business Analyst, Data & AI"
     location: str = "Auckland, New Zealand"
-    languages: list[str] = field(default_factory=lambda: ["Python", "T-SQL", "DAX"])
+    languages: list[str] = field(default_factory=lambda: ["Python", "SQL"])
     studying: list[str] = field(default_factory=lambda: ["CBAP", "DP-300", "Master of Business Analytics"])
     homelab: str = "5x Proxmox nodes"
 
@@ -42,7 +42,6 @@ if __name__ == "__main__":
 
 ### Data & reporting
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-1B6EC2?style=for-the-badge)
 ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -60,6 +59,7 @@ if __name__ == "__main__":
 ### AI
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-5B21B6?style=for-the-badge)
 
 ### Infrastructure & self-hosting
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
